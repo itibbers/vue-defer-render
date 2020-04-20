@@ -1,0 +1,17 @@
+{
+  "name": "vue-defer-render",
+  "version": "1.0.0",
+  "description": "Defer render vue components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vue serve test/index.vue"
+  },
+  "keywords": ["vue-defer-render"],
+  "homepage": "https://github.com/itibbers/vue-defer-render#readme",
+  "repository": "https://github.com/itibbers/vue-defer-render.git",
+  "bugs": {
+    "url": "https://github.com/itibbers/vue-defer-render/issues"
+  },
+  "author": "iTibbers <jxn2014@gmail.com>",
+  "license": "MIT"
+}
