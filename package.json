@@ -1,6 +1,6 @@
 {
   "name": "vue-defer-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Defer render vue components.",
   "main": "index.js",
   "scripts": {
